@@ -1,5 +1,3 @@
-echo AAAA
-sudo mkdir /root/AAAAAAAAA
-echo BBBB
-touch /tmp/BBBBBBB
+echo SERVER!!!
+sudo mkdir ~/SERVER123
 
